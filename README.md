@@ -4,7 +4,11 @@ A Java-based emergency evacuation simulation system designed to simulate evacuat
 
 ## Project Overview
 
+<<<<<<< HEAD
 The **Emergency Evacuation System** is a simulation-based Java project developed to demonstrate how people can be guided toward safer routes during an emergency situation.
+=======
+The Emergency Evacuation System is a simulation-based Java project developed to demonstrate how people can be guided toward safer routes during an emergency situation.
+>>>>>>> fd8f1a8 (Fix README formatting and screenshots)
 
 The system provides a simulation environment where evacuation-related information can be represented and analyzed.
 
@@ -19,8 +23,13 @@ The system provides a simulation environment where evacuation-related informatio
 
 ## Technology Used
 
+<<<<<<< HEAD
 * **Java**
 * **Java Swing / GUI**
+=======
+* Java
+* Java Swing / GUI
+>>>>>>> fd8f1a8 (Fix README formatting and screenshots)
 * Object-Oriented Programming (OOP)
 
 ## Project Structure
@@ -67,4 +76,3 @@ The project demonstrates the concept of using software simulation to represent a
 **Garvita Agarwal**
 
 B.Tech — Artificial Intelligence & Data Science
-
